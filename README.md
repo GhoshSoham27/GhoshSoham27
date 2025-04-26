@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an fullstack MERN E-book Platform<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning Java<br>⚡ Fun fact: I hate my Uni too :)
+🔭 I’m currently working on an fullstack MERN Projects Platform<br>👯 I’m looking to collaborate on fullstack projects<br>🌱 I’m currently learning Java<br>⚡ Fun fact: I hate my Uni too :)
 
 
 ## 🌐 Socials:
